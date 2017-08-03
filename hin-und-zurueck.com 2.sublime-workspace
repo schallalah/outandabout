@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font-s",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anjaschaller/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/anjaschaller/Desktop/Webseiten/Hin und Zurück/sftp-config.json",
+		"/Users/anjaschaller/Desktop/Webseiten/Hin und Zurück/sftp-config.json",
+		"/Users/anjaschaller/Desktop/Webseiten/Hin und Zurück/license.txt",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela_child/style.css",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-includes/general-template.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela/content-grid.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela/content-quote.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela_child/footer.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela/index.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela_child/sidebar-front-page.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela/sidebar-front-page.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela/style.css",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela_child/header.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/sftp-config.json",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/twentysixteen_child/header.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/twentysixteen/header.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/twentysixteen_child/functions.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela_child/functions.php",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/twentysixteen_child/style.css",
+		"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/the-bootstrap/style.css",
+		"/Users/anjaschaller/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/solutions",
+		"/var/folders/4f/08rbb0gs4152y61_krrp_jch0000gn/T/sublime-sftp-browse-1476698446/solutions/html/wordpress_2/wp-content/themes/the-bootstrap/style.css",
+		"/private/var/folders/4f/08rbb0gs4152y61_krrp_jch0000gn/T/sublime-sftp-browse-1476698446/solutions/schallersolutions.sublime-project",
+		"/private/var/folders/4f/08rbb0gs4152y61_krrp_jch0000gn/T/sublime-sftp-browse-1476698446/solutions/html/wordpress_2/wp-content/themes/the-bootstrap/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/uku/header.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/uku/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/hin-und-zurueck.sublime-project",
+		"/Users/anjaschaller/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/schaller-solutions",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/uku-child/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/uku-child/functions.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/uku/functions.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki/languages/de_DE.po",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki/header.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki_child/400.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki/404.php",
+		"/Users/anjaschaller/Downloads/map.svg",
+		"/Applications/MAMP/htdocs/wordpress/wp-config-sample.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki_child/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki/content-single.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/functions.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki_child/single.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki/single.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki_child/Screenshot.png",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zuki/inc/widgets.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/template-frontpage.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/loop-frontpage.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/header.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/loop-single.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/tag.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/category.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/page.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/header.php",
+		"/Users/anjaschaller/Dropbox/Homepage/hin-und-zurueck/local/wp-config.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/single.php",
+		"/Users/anjaschaller/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/functions.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/carousel.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/home.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/code_schnipsel.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/sidebar.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/index.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/404.php",
+		"/Users/anjaschaller/Desktop/flo.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/outandabout/.htaccess",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/category.php",
+		"/Users/anjaschaller/Dropbox/Homepage/qtranslate entfernen.sql",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic_child/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/includes/options/settings/settings-general.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic-child/index.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic-child/header.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic_child/header.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic_child/social-header.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/footer.php",
+		"/Users/anjaschaller/Dropbox/Homepage/hin-und-zurueck/local/wp-content/themes/outandabout/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-config.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/404.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/languages/zeeDynamic.pot",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/plugins/qtranslate/qtranslate.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/plugins/qtranslate/qtranslate_core.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/single.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/social-header.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/languages/de_DE.po",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/loop-excerpt.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/loop.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/index.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/loop-excerpttag.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/includes/template-tags.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/languages/de_DE.mo",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/loop-index.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/js/posts.js",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/sharing.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic-child/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/css/flexslider.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/includes/options/settings/settings-frontpage.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/includes/customization/custom-jscript.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/picolight/header.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/loop-excerptni.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/search.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/page.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/picolight/index.php",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/picolight/style.css",
+		"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/social_header.php",
+		"/Users/anjaschaller/Desktop/-- phpMyAdmin SQL Dump.sql",
+		"/Applications/MAMP/htdocs/wp-config.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela",
+			"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes",
+			"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes/sela",
+			"/Users/anjaschaller/Desktop/Webseiten/Schaller Solutions/wp-content/themes",
+			"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/sela/",
+			"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/sela",
+			"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/",
+			"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic/",
+			"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/",
+			"/Users/anjaschaller/Dropbox/Apps/wpb2d/wp-content/themes/zeedynamic",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"excerpt",
+			"more",
+			"template-tags",
+			"comments-link",
+			"entry-content",
+			"Schaller",
+			"impressum",
+			"excerpt",
+			"summary",
+			"quote",
+			"secondary",
+			"primary",
+			"menu-toggle",
+			"main-navigation",
+			"site-branding",
+			"genericons",
+			"widget-area",
+			"social",
+			"genericons",
+			"4f4f4f",
+			"main",
+			"font-size",
+			"f25f70",
+			"header",
+			"blockquo",
+			"font",
+			"font-familiy",
+			"	.section-one-column-one .type-post .entry-summary,\n",
+			"font-size",
+			"\n	",
+			"font-size",
+			"font-",
+			"loops",
+			"miniloops",
+			"font-fam",
+			"grey-box",
+			"grey_box",
+			"1.0 dfdf",
+			"masthead",
+			"header-top-nav",
+			"menu-social",
+			"footer",
+			"follo",
+			"Follow Us",
+			"img src",
+			"nav_menu",
+			"thumbnail",
+			".entry-content {",
+			"entry-content",
+			"gallery-caption",
+			"landscape",
+			"gallery-icon ",
+			"front",
+			"blockquote",
+			"56px",
+			"(min-width: 1260px)\n#site-nav",
+			"entry-content",
+			"1.625rem",
+			"more",
+			"mehr",
+			"more",
+			"front",
+			"separator",
+			"seperator",
+			"\n.",
+			"entry p",
+			"img",
+			"image",
+			"main",
+			"col-xs",
+			"main",
+			"video",
+			"mainnac-menu a",
+			"impressum",
+			"themeZee_general_footer",
+			"2013",
+			"footer",
+			"zeeDynamic_language",
+			"meta-comments sep",
+			"postmeta",
+			"meta",
+			"postmeta",
+			"comments",
+			"kommentar",
+			"meta",
+			"post_meta",
+			"get_post_meta",
+			"image",
+			"frontpage_big_image",
+			"image",
+			"big",
+			"\n	",
+			"more",
+			"featured",
+			"themezee_display_frontpage_posts",
+			"				<",
+			"themezee_display_category_posts_horizontal",
+			"anayltics",
+			"', 'hin-und-zurueck.com'); ga('send', 'pageview');",
+			"analytics.js",
+			"UA-33870619-1",
+			"UA-33870619-1Hin und zurück\nThorsten-Rebek.de\n",
+			"function(i,s,o,g,r,a,m)",
+			"analytics",
+			"info",
+			"resize",
+			"attachment-frontpage_big_image",
+			"big_image",
+			"frontpage big image",
+			"image",
+			"featured_image",
+			"thumb",
+			"image ",
+			"featured_image ",
+			"attachment-featured_image ",
+			"attachment-featured_image wp-post-image",
+			"33870619-1",
+			"footer",
+			"postinfo",
+			"UA-33870619-1",
+			"social",
+			"max_num_pages",
+			"themeZee_frontpage_posts",
+			"frontpage-posts",
+			"front",
+			"themeZee_frontpage_posts_active",
+			"themezee_display_frontpage_posts",
+			"font-fa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"themes/zeedynamic/footer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true
+}
